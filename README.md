@@ -57,7 +57,7 @@ background-color: #e5e7eb;
 </a>
 <nav class="hidden md:flex space-x-8">
 <a href="#inicio" class="text-gray-800 font-medium hover:text-primary transition-colors">Inicio</a>
-<a href="#casos-estudios" class="text-gray-800 font-medium hover:text-primary transition-colors">Casos de Estudios</a>
+<a href="#casos-estudios" class="text-gray-800 font-medium hover:text-primary transition-colors" style="text-align: center;">Casos de Estudios</a>
 <a href="#catalogo" class="text-gray-800 font-medium hover:text-primary transition-colors">Catálogo</a>
 <a href="#nosotros" class="text-gray-800 font-medium hover:text-primary transition-colors">Nosotros</a>
 <a href="#proyectos-aprobados" class="text-gray-800 font-medium hover:text-primary transition-colors">Proyectos Aprobados</a>
